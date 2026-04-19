@@ -7,3 +7,5 @@ A personal wellness tracking app for tracking positive actions towards:
 - Sleep
 - Movement
 - Mindfulness
+
+![](./wellness-app.png)
